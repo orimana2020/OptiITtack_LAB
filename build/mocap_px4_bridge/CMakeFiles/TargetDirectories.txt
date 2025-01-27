@@ -1,0 +1,10 @@
+/home/ori/optitrack_ws/build/mocap_px4_bridge/CMakeFiles/uninstall.dir
+/home/ori/optitrack_ws/build/mocap_px4_bridge/CMakeFiles/mocap_px4_bridge_uninstall.dir
+/home/ori/optitrack_ws/build/mocap_px4_bridge/CMakeFiles/mocap_px4_bridge_ros2.dir
+/home/ori/optitrack_ws/build/mocap_px4_bridge/CMakeFiles/test.dir
+/home/ori/optitrack_ws/build/mocap_px4_bridge/CMakeFiles/edit_cache.dir
+/home/ori/optitrack_ws/build/mocap_px4_bridge/CMakeFiles/rebuild_cache.dir
+/home/ori/optitrack_ws/build/mocap_px4_bridge/CMakeFiles/list_install_components.dir
+/home/ori/optitrack_ws/build/mocap_px4_bridge/CMakeFiles/install.dir
+/home/ori/optitrack_ws/build/mocap_px4_bridge/CMakeFiles/install/local.dir
+/home/ori/optitrack_ws/build/mocap_px4_bridge/CMakeFiles/install/strip.dir

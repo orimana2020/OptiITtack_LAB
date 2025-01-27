@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/ori/optitrack_ws/install/px4_msgs/include/**",
+        "/home/ori/optitrack_ws/install/mocap4r2_optitrack_driver/include/**",
+        "/home/ori/ros2_ws/install/zed_topic_benchmark_component/include/**",
+        "/home/ori/ros2_ws/install/zed_topic_benchmark_interfaces/include/**",
+        "/home/ori/ros2_ws/install/zed_rgb_convert/include/**",
+        "/home/ori/ros2_ws/install/zed_aruco_localization/include/**",
+        "/home/ori/ros2_ws/install/zed_components/include/**",
+        "/home/ori/ros2_ws/install/rviz_plugin_zed_od/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/ori/optitrack_ws/src/mocap4ros2_optitrack/mocap4r2_optitrack_driver/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

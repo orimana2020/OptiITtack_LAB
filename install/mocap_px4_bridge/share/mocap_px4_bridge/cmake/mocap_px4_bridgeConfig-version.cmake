@@ -1,0 +1,1 @@
+/home/ori/optitrack_ws/build/mocap_px4_bridge/ament_cmake_core/mocap_px4_bridgeConfig-version.cmake
